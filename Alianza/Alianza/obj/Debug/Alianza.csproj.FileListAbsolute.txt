@@ -1,0 +1,9 @@
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\bin\Debug\Alianza.exe.config
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\bin\Debug\Alianza.exe
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\bin\Debug\Alianza.pdb
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.csprojResolveAssemblyReference.cache
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.Form1.resources
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.Properties.Resources.resources
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.csproj.GenerateResource.Cache
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.exe
+c:\users\hugoantonio\documents\visual studio 2012\Projects\Alianza\Alianza\obj\Debug\Alianza.pdb
